@@ -1,0 +1,11 @@
+E:\Programming\ASP.Net\UnityTest\UnityTest\bin\Debug\netcoreapp2.1\UnityTest.deps.json
+E:\Programming\ASP.Net\UnityTest\UnityTest\bin\Debug\netcoreapp2.1\UnityTest.runtimeconfig.json
+E:\Programming\ASP.Net\UnityTest\UnityTest\bin\Debug\netcoreapp2.1\UnityTest.runtimeconfig.dev.json
+E:\Programming\ASP.Net\UnityTest\UnityTest\bin\Debug\netcoreapp2.1\UnityTest.dll
+E:\Programming\ASP.Net\UnityTest\UnityTest\bin\Debug\netcoreapp2.1\UnityTest.pdb
+E:\Programming\ASP.Net\UnityTest\UnityTest\obj\Debug\netcoreapp2.1\UnityTest.csprojAssemblyReference.cache
+E:\Programming\ASP.Net\UnityTest\UnityTest\obj\Debug\netcoreapp2.1\UnityTest.csproj.CoreCompileInputs.cache
+E:\Programming\ASP.Net\UnityTest\UnityTest\obj\Debug\netcoreapp2.1\UnityTest.AssemblyInfoInputs.cache
+E:\Programming\ASP.Net\UnityTest\UnityTest\obj\Debug\netcoreapp2.1\UnityTest.AssemblyInfo.cs
+E:\Programming\ASP.Net\UnityTest\UnityTest\obj\Debug\netcoreapp2.1\UnityTest.dll
+E:\Programming\ASP.Net\UnityTest\UnityTest\obj\Debug\netcoreapp2.1\UnityTest.pdb
